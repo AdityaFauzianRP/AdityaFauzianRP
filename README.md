@@ -22,11 +22,13 @@ I'm a passionate software developer with expertise in building scalable web appl
 <img align="left" alt="Git" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="Alpine.js" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="SQLite" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="Laravel" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" />
+<img align="left" alt="Laravel" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 
+<br />
+<br />
 <br />
 
 ### GitHub Stats:
